@@ -1,0 +1,31 @@
+.example-card {
+    max-width: 750px;
+}
+
+#card {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#fullPageBtn {
+    margin: 2px;
+}
+
+#headerWiki {
+    height: 135px;
+    line-height: 135px;
+    width: 465px;
+    text-align: center;
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+img {
+    height: 135px;
+    margin: 20px 20px 20px 0px;
+}
+
+#wikiContent {
+    margin: 10px 15px;
+}
